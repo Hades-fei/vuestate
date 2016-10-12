@@ -1,5 +1,9 @@
 #Vuestate
 
+<p align="center">
+	<img width="200px" src="https://raw.githubusercontent.com/Hades-fei/vuestate/master/img/Logo-vuestate.png">
+</p>
+
 ##Vuestate是什么
 一个基于Vuejs的面向对象的集中式状态管理架构
 
